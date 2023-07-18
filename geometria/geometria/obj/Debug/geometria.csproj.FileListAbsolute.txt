@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\geometria\geometria\bin\Debug\geometria.exe.config
+C:\Users\Aluno\Source\Repos\geometria\geometria\bin\Debug\geometria.exe
+C:\Users\Aluno\Source\Repos\geometria\geometria\bin\Debug\geometria.pdb
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.Form1.resources
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.exe
+C:\Users\Aluno\Source\Repos\geometria\geometria\obj\Debug\geometria.pdb

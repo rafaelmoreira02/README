@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\bin\Debug\calc_numbers.exe.config
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\bin\Debug\calc_numbers.exe
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\bin\Debug\calc_numbers.pdb
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.Form1.resources
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.exe
+C:\Users\Aluno\Source\Repos\calc_numbers\calc_numbers\obj\Debug\calc_numbers.pdb

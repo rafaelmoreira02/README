@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\vendas\vendas\bin\Debug\vendas.exe.config
+C:\Users\Aluno\Source\Repos\vendas\vendas\bin\Debug\vendas.exe
+C:\Users\Aluno\Source\Repos\vendas\vendas\bin\Debug\vendas.pdb
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.Form1.resources
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.exe
+C:\Users\Aluno\Source\Repos\vendas\vendas\obj\Debug\vendas.pdb

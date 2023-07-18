@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\media\media\bin\Debug\media.exe.config
+C:\Users\Aluno\Source\Repos\media\media\bin\Debug\media.exe
+C:\Users\Aluno\Source\Repos\media\media\bin\Debug\media.pdb
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.Form1.resources
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.exe
+C:\Users\Aluno\Source\Repos\media\media\obj\Debug\media.pdb

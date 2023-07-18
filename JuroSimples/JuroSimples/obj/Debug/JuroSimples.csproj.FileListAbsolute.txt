@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\bin\Debug\JuroSimples.exe.config
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\bin\Debug\JuroSimples.exe
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\bin\Debug\JuroSimples.pdb
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.Form1.resources
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.exe
+C:\Users\Aluno\Source\Repos\JuroSimples\JuroSimples\obj\Debug\JuroSimples.pdb
